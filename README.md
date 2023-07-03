@@ -3,7 +3,7 @@
 Models of double knotted proteins predicted by AlphaFold (<em>AlphaFold-local</em> folder) [[1]](#1) and RoseTTaFold (<em>Rosetta</em> folder) [[2]](#2). 
 <em>AlphaFold-local</em> folder only consists of the structures predicted by locally installed version of AlphaFold (2.1.0).
 
-<em>TrmD-Tm1570</em> folder includes the complex of TrmD-Tm1570 with four SAMs obtained <em>via</em> molecular docking.
+<em>TrmD-Tm1570</em> folder includes of the complex of TrmD-Tm1570 with four SAMs obtained <em>via</em> molecular docking.
 
 ## References
 <a id="1">[1]</a> 
